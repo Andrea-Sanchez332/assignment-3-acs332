@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Currently, I'm using as plant models maize and grapevine
 
-![Maize](maize.jpg)
+![Maize experiment, Guterman Bioclimatic Laboratory - Ithaca](maize.jpg)
 
 <br>
 
-![Grapevine](grapevine.jpg)
+![Grapevine experiment, Cornell Agritech - Geneva](grapevine.jpg)
 
