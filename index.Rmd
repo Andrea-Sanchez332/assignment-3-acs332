@@ -10,13 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Andrea Sanchez P.
 
-Visit my GitHub [here] [(https://github.com/Andrea-Sanchez332]
+Visit my GitHub [here](https://github.com/Andrea-Sanchez332)
 
 
 ![Profile picture](/Users/andreasanchez/github/assignment-3-acs332/IMG_61901.jpg)
 
 ##Ana Roldan L.
 
-Visit my Github [here] [https://github.com/alr325]
+Visit my Github [here](https://github.com/alr325)
 
 ![Profile picture](/Users/andreasanchez/github/assignment-3-acs332/IMG_6232.JPG)
