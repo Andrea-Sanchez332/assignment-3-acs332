@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Currently, I'm using as plant models maize and grapevine
 
-![Maize](/Users/andreasanchez/github/assignment-3-acs332/IMG_5285.HEIC)
+![Maize](maize)
 
-![Grapevine](/Users/andreasanchez/github/assignment-3-acs332/IMG_5484.HEIC)
+![Grapevine](grapevine)
 
