@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 3rd year Ph.D student in the School of Integrative Plant Science, Horticulture section.
 
-* My work is based in the physiological plant mechanisms of plant tolerance under abiotic stress.
+* My work is based in the physiological mechanisms of plant tolerance under abiotic stress.
 
 * Currently, I'm using as plant models maize and grapevine
 
