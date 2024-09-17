@@ -2,7 +2,7 @@ name: "our-website"
 navbar:
   title: "Our Collaborative Website"
   left:
-    - text: "index"
+    - text: "Index"
       href: index.html
     - text: "Andrea"
       href: andrea.html
