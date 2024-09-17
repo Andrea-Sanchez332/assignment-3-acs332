@@ -4,8 +4,8 @@ navbar:
   left:
     - text: "index"
       href: index.html
-    - text: "andrea"
-      href: about.html
+    - text: "Andrea"
+      href: andrea.html
 output_dir: "."
 output:
   html_document:
