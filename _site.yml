@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Andrea"
       href: andrea.html
+    - text: "Ana"
+      href: Ana.html
 output_dir: "."
 output:
   html_document:
