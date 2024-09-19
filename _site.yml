@@ -1,4 +1,5 @@
 name: "our-website"
+output_dir: "."
 navbar:
   title: "Our Collaborative Website"
   left:
@@ -8,7 +9,6 @@ navbar:
       href: andrea.html
     - text: "Ana"
       href: Ana.html
-output_dir: "."
 output:
   html_document:
     theme: journal
